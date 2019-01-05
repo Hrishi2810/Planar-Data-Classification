@@ -1,4 +1,4 @@
-# Planar-Data-Classification
+# Planar-Data-Classification (Coursera Project)
 Generated red and blue points to form a flower.
 
 Fit a neural network to correctly classify the points.
